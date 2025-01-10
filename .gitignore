@@ -1,0 +1,21 @@
+# Ignore Python bytecode and cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+.venv/
+
+# Ignore environment variables file (if any)
+.env
+
+# Ignore local settings/config (if any)
+local_settings.py
+
+# Ignore defs.py
+defs.py
