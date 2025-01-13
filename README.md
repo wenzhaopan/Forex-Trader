@@ -1,0 +1,1 @@
+An algorithmic trading system featuring a placeholder strategy right now. I plan on adding more dynamically implementable strategies in the future along with vectorized/iterative backtesters. Made with Python, TensorFlow, Oanda for the facilitation of Forex trading.
